@@ -10,7 +10,8 @@
 
 Для  получения и слияния из удаленого репозитория используется команда
 ``` git pull```
- ghjjjjjjjjhghjjj
+ 
+ Xnj- nj z dytckf c.lf/  c wtkm. cjplfnm rjyakbn gj htrjvtylfwbb Fyljtz
 
 ``` Java
 while (count<0)
