@@ -10,15 +10,15 @@
 
 Дллллллля  получения и слияния из удаленого репозитория используется команда
 ``` git pull```
- 
- Xnj- nj z dytckf c.lf/  c wtkm. cjplfnm rjyakbn gj htrjvtylfwbb Fyljtz
 
-``` Java
+
+```Java
 while (count<0)
 (
 count++;
 )
 ```
+
 
 
 
